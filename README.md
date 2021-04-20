@@ -3,5 +3,5 @@ Just another respository
 
 
 Hej, nazywam sie Marta.
-Mam 21 lat.
+Mam 21 
 Mieszkam na Śląsku.
